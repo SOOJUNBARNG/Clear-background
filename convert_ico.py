@@ -13,4 +13,4 @@ def convert_png_to_ico(input_path, output_path):
     print(f"変換完了: {output_path}")
 
 # 実行
-convert_png_to_ico('logo.png', 'output.ico')
+convert_png_to_ico('sake_cropped.png', 'output_sake.ico')
