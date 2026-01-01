@@ -33,4 +33,4 @@ def autocrop_image(input_path, output_path, padding=20):
         print("Could not find a subject to crop.")
 
 # Usage
-autocrop_image("sake_output.png", "sake_cropped.png")
+autocrop_image("logo_output.png", "job_cropped.png")
